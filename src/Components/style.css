@@ -1,0 +1,35 @@
+nav{
+    background-color: rgb(230, 255, 9);
+    padding: 16px 32px;
+    font-size: 30px;
+    display: flex;
+    align-items:stretch;
+    justify-content: space-around;
+    
+}
+
+nav a.active{
+    font-weight: bolder;
+    font-size: larger;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    text-shadow:2px 2px  rgb(205, 177, 228);
+
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(29, 28, 28);
+    font-weight: bold;
+}
+.add-btn{
+    display: inline-block;
+    float  : right;
+    margin: 30px 30px 0 0 ;
+    font-size: 20px;
+    color: rgb(240, 231, 231);
+    background-color: rgb(138, 35, 223);
+}
+
+h1{
+    display: inline-block;
+}
