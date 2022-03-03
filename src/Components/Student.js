@@ -14,12 +14,12 @@ function createData(name, Age, Course, Batch, change) {
 }
 
 const rows = [
-  createData('Shailesh', 26, 'MERN', 'October',<NavLink to='edit'>Edit</NavLink>),
-  createData('Ash', 25, 'MERN', 'November',<NavLink to='edit'>Edit</NavLink>),
-  createData('Sam', 25, 'MERN', 'September',<NavLink to='edit'>Edit</NavLink>),
-  createData('John', 22, 'MERN', 'September',<NavLink to='edit'>Edit</NavLink>),
-  createData('Christ', 23, 'MERN', 'October',<NavLink to='edit'>Edit</NavLink>),
-  createData('Bob', 24, 'MERN', 'November',<NavLink to='edit'>Edit</NavLink>),
+  createData('Vaibhav', 26, 'MERN', 'October',<NavLink to='edit'>Edit</NavLink>),
+  createData('Raj', 27, 'MEAN', 'November',<NavLink to='edit'>Edit</NavLink>),
+  createData('Riya', 28, 'MEAN', 'December',<NavLink to='edit'>Edit</NavLink>),
+  createData('Dom', 22, 'MEAN', 'August',<NavLink to='edit'>Edit</NavLink>),
+  createData('Cook', 23, 'MERN', 'October',<NavLink to='edit'>Edit</NavLink>),
+  createData('Hoody', 24, 'MERN', 'January',<NavLink to='edit'>Edit</NavLink>),
 
 ];
 
